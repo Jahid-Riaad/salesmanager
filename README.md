@@ -1,2 +1,2 @@
-# sales
+# salesmanager
 sales manager application
